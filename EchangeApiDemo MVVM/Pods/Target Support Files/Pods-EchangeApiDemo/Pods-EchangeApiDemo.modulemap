@@ -1,0 +1,6 @@
+framework module Pods_EchangeApiDemo {
+  umbrella header "Pods-EchangeApiDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

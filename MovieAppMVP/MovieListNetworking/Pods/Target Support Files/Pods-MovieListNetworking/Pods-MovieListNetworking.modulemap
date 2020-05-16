@@ -1,0 +1,6 @@
+framework module Pods_MovieListNetworking {
+  umbrella header "Pods-MovieListNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
